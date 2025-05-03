@@ -92,9 +92,9 @@ A comprehensive blog management system designed for students and administrators 
 - **Role**: Administrator
 
 ### Student Access
-- **Email**: aysar@example.com
+- **Email**: student@example.com
 - **Password**: password
-- **Name**: Aysar Hamid
+- **Name**: student
 
 ### Default Category
 - **Name**: Tech
