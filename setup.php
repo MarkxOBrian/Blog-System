@@ -27,7 +27,7 @@ try {
     echo "Database setup completed successfully!<br>";
     echo "Default credentials:<br>";
     echo "Admin: username: admin, password: password<br>";
-    echo "Student: email: aysar@example.com, password: password<br>";
+    echo "Student: email: student@example.com, password: password<br>";
     echo "Default category: Tech<br>";
     echo "<a href='index.php'>Go to Home Page</a>";
 } catch (PDOException $e) {
